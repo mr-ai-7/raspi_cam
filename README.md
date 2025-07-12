@@ -13,7 +13,7 @@ This project provides a **Flask-based web interface** for controlling the Raspbe
 ## 🌐 Live Demo (Screen Recording)
 
 🎥 **[Watch the Demo Video](https://your-video-link.com)**  
-<img src="screenshots/video_gallery.png" width="600">
+<img src="Screenrecording_20250712_203201.mp4" width="600">
 
 <br>
 
