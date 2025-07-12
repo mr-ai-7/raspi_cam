@@ -13,7 +13,7 @@ This project provides a **Flask-based web interface** for controlling the Raspbe
 ## 🌐 Live Demo (Screen Recording)
 
 🎥 **[Watch the Demo Video](https://your-video-link.com)**  
-*(Replace with your actual video link, e.g., YouTube or Google Drive)*
+<img src="screenshots/video_gallery.png" width="600">
 
 <br>
 
@@ -32,12 +32,6 @@ This project provides a **Flask-based web interface** for controlling the Raspbe
 
 ### 🔴 Live Camera Stream
 <img src="screenshots/live_stream.png" width="600">
-
-### 🖼 Photo Gallery
-<img src="screenshots/photo_gallery.png" width="600">
-
-### 🎞 Video Gallery
-<img src="screenshots/video_gallery.png" width="600">
 
 > Make sure you create a `screenshots/` directory and place real screenshots with the same names, or update the filenames accordingly.
 
