@@ -31,7 +31,7 @@ This project provides a **Flask-based web interface** for controlling the Raspbe
 ## 📸 Screenshots
 
 ### 🔴 Live Camera Stream
-<img src="Screenshot_20250712_203155.jpg" width="600">
+<img src="Screenshot_20250712_203155.jpg" width="250">
 
 <br>
 
